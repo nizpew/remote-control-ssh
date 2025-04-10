@@ -26,6 +26,11 @@ Remote Control SSH is a simple yet effective script designed to manage audio pla
 
 - Ensure you have bash and fzf installed on your system.
 - You may need amixer for volume control, which is typically included with ALSA (Advanced Linux Sound Architecture).
+   ```
+      sudo apt install socat
+      sudo apt install mpc
+
+   ```
 
 ### Steps
 
